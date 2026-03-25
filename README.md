@@ -1,38 +1,12 @@
-<h1 align="center">
-  Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> 
-  I'm <a href="https://github.com/Trishix" target="_blank">Trishit Swarnakar</a>
-</h1>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=BTech+CS-AI'28+Student;Full-Stack+Web+Developer;Robotics+Enthusiast;Lead+Guitarist+%7C+10%2B+Years;Open-Source+Contributor)](https://git.io/typing-svg)
-
-</div>
-
-<h2 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
+<h2 align="center">Trishit Swarnakar</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/trishit-swarnakar/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" />
-  </a>
-  <a href="https://www.instagram.com/ft.trishit/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" />
-  </a>
-  <a href="https://leetcode.com/u/trishix/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="40" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://codeforces.com/profile/trishit_swarnakar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="trishit_swarnakar" height="45" width="50" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/trishitofficial" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trishitofficial" height="45" width="50" />
-  </a>
+  <a href="https://www.linkedin.com/in/trishit-swarnakar/" target="_blank">LinkedIn</a> •
+  <a href="mailto:trishitofficial@gmail.com">Email</a> •
+  <a href="https://leetcode.com/u/trishix/" target="_blank">LeetCode</a> •
+  <a href="https://codeforces.com/profile/trishit_swarnakar" target="_blank">Codeforces</a> •
+  <a href="https://www.hackerrank.com/profile/trishitofficial" target="_blank">HackerRank</a>
 </p>
-
-<p align="center">
-  📫 Reach me at: <a href="mailto:trishitofficial@gmail.com">trishitofficial@gmail.com</a>
-</p>
-
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=Trishix&style=for-the-badge" alt="Trishix's Profile Views" />
 </p>
@@ -54,12 +28,11 @@
 
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="38"> Skills & Expertise</h1>
 
-<br>
-
 ## 🧠 Technical Skills
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -79,28 +52,56 @@
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=rest&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
+- Authentication (JWT)  
+- Role-Based Access Control (RBAC)  
+- API Architecture (Controllers • Services • Middleware)  
+- Async Workflows & Error Handling  
+- Third-Party Integrations (Payments • Storage • Email)  
+- Deployment (Vercel • Render)  
+
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 
+- Prisma ORM  
+- Schema Design & Data Modeling  
+- Query Optimization  
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+
+- RAG (Retrieval-Augmented Generation)  
+- Embeddings & Vector Databases (LanceDB)  
+- LLM API Integration  
+- Machine Learning (Regression • Classification • Decision Trees • Neural Networks)  
+- Model Evaluation Metrics  
+
+### 📊 Data & Analytics
+- Excel Dashboards  
+- Pivot Tables & KPI Tracking  
+- Data Analysis & Visualization  
+
 ### 🛠️ Tools & Libraries
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
-### 💡 Tech Practices
-- **Responsive Design** | **UI/UX Principles** | **API Integration**
-- **Clean Architecture** | **Production Ready Development**
-
-<br>
-
+### 💡 Core Concepts
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (500+ Problems Solved)  
+- System Design & Scalability  
+- API Design & Integration  
+- Clean Architecture  
+- Performance Optimization  
+- Responsive Design & UI/UX  
 ## 🎨 Creative + Strategic Skills
 
 ### 🎬 Design & Content Creation
