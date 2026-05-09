@@ -85,7 +85,8 @@
 ### 📊 Data & Analytics
 - Excel Dashboards  
 - Pivot Tables & KPI Tracking  
-- Data Analysis & Visualization  
+- Data Analysis & Visualization
+- Tableau Dashboards
 
 ### 🛠️ Tools & Libraries
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
