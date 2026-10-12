@@ -40,45 +40,6 @@ Previously an **LLM Research Engineer Intern at Aicoo**, working on evaluations,
   </p>
 </details>
 
-<h2><img src="./assets/section-projects.svg" width="100%" alt="02 / Selected Builds" /></h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Trishix/ion">Ion ↗</a></h3>
-      <p><b>A coding agent for the terminal.</b></p>
-      <p>Inspects repositories, applies guarded edits, and runs checks. Includes stale-write protection, model selection, and retained verification evidence.</p>
-      <p><code>Python</code> <code>Textual</code> <code>LLM tool use</code></p>
-      <p><a href="https://github.com/Trishix/ion">Source</a> · <a href="https://github.com/Trishix/ion/blob/main/architecture.md">Architecture</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Trishix/suoku">Suoku ↗</a></h3>
-      <p><b>Semantic search for archived video.</b></p>
-      <p>A local-first library that retrieves relevant moments and returns structured observations with timestamped evidence. Exposes Python, CLI, HTTP, and TypeScript interfaces.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>TypeScript</code></p>
-      <p><a href="https://github.com/Trishix/suoku">Source &amp; documentation</a> · <b>Developer alpha</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Trishix/ryoku">Ryoku ↗</a></h3>
-      <p><b>AI support with a human handoff.</b></p>
-      <p>Combines knowledge-base retrieval, an embeddable chat widget, live agent conversations, and support analytics. Uses vector search and Redis rate limiting.</p>
-      <p><code>Next.js</code> <code>PostgreSQL / pgvector</code> <code>Redis</code></p>
-      <p><a href="https://github.com/Trishix/ryoku">Source</a> · <a href="https://ryoku-iota.vercel.app">Demo</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Trishix/Stringz">Stringz ↗</a></h3>
-      <p><b>A full-stack guitar learning platform.</b></p>
-      <p>Brings together video courses, progress tracking, student/admin roles, and payments. Connects my engineering work with 10+ years of playing guitar.</p>
-      <p><code>React</code> <code>Node.js / Express</code> <code>MongoDB</code></p>
-      <p><a href="https://github.com/Trishix/Stringz">Source</a> · <a href="https://stringz-lijo.vercel.app">Demo</a></p>
-    </td>
-  </tr>
-</table>
-
-More experiments: **[UBOT](https://github.com/Trishix/ubot)** — conversational portfolios · **[VFlow](https://github.com/Trishix/vflow)** — visual AI workflows.
-
 <h2><img src="./assets/section-experience.svg" width="100%" alt="03 / Experience" /></h2>
 
 **LLM Research Engineer Intern · Aicoo**  
